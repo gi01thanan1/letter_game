@@ -1,0 +1,73 @@
+﻿body {
+    
+}
+
+
+
+.st-key-play_button button  {
+    background-color:#d8f4e0;
+    font-size: 30px;
+    width: 100px;
+    font-weight: bold;
+    /* margin-left: 100px; */
+}
+.st-key-no_button button  {
+    background-color: rgb(245, 211, 213);
+    font-size: 30px;
+    width: 150px;
+    font-weight: bold;
+    margin-left: -100px;
+
+}
+.st-key-add_button button {
+    /* background-color:#38cb7b; */
+    /* background-color:#91f0aa; */
+    background-color:#d8f4e0;
+    font-size: 40px;
+    width: 100px;
+    font-weight: bold;
+    
+
+    
+}
+
+/* Text input with custom font and color */
+.st-key-widget input {
+    border: 5px solid lightgray;
+    border-radius: 8px;
+    font-size: 30px;
+    /* background-color: rgb(32, 26, 214); */
+    background-color: lightgray;
+    
+}
+
+/* Styled markdown */
+.custom-markdown {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    /* color: #DA70D6; */
+    color:rgb(25, 90, 146);
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+    align-content: center;
+}
+
+.user-word {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    color:#5c5aee;
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+    align-content: center;
+}
+
+div.st-emotion-cache-1rsyhoq {
+    font-size: 40px;
+    
+    
+}
+
+
+/*<div data-testid="stMarkdownContainer" class="st-emotion-cache-1rsyhoq e1nzilvr5"><p><code>7</code></p></div>*/
+
+
